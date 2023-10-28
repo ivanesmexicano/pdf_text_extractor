@@ -1,0 +1,24 @@
+Category Example
+Tool Jupyter Notebook
+Topic data mining
+Programming language Python
+Tool TensorFlow
+Topic machine learning
+Programming language R
+Tool PyTorch
+Topic artificial intelligence
+Programming language SQL
+Tool NumPy
+Topic statistical analysis
+Programming language Scala
+Tool Pandas
+Topic data visualization
+Programming language Julia
+Tool scikit-learn
+Topic big data
+Programming language Java
+Tool Spark SQL
+Topic natural language processing
+Programming language C++
+Topic computer vision
+Programming language JavaScript
